@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Amritansh 👋
 
-<!--
-**amritanshguptadev/amritanshguptadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I'm a BCA student who is currently learning programming and exploring the tech world.  
+I enjoy understanding how things work and improving my skills step by step.
 
-Here are some ideas to get you started:
+## What I'm doing right now
+Right now, I'm focusing on:
+- Learning C and C++
+- Practicing data structures and basic problem solving
+- Building small projects to get better with coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I use
+- C, C++
+- HTML, CSS (basic)
+- Git & GitHub
+- VS Code
+
+## Contact
+You can reach me here:
+- LinkedIn: www.linkedin.com/in/amritanshguptadev 
+
+## Goal
+My goal is to become a good developer and create useful projects that can help people.
