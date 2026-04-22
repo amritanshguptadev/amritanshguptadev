@@ -16,8 +16,8 @@
   <a href="https://www.linkedin.com/in/amritanshguptadev">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://amritanshguptadev.github.io/resume/">
-    <img src="https://img.shields.io/badge/Portfolio-Resume-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" />
+  <a href="https://github.com/amritanshguptadev/resume/raw/main/resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
   <a href="https://github.com/amritanshguptadev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -44,7 +44,7 @@ A passionate **BCA student** from **Haridwar, India** 🇮🇳 who is on a missi
 📍 Location    : Haridwar, Uttarakhand, India
 💼 Status      : Student & Aspiring Developer
 🔭 Focused on  : C, C++, DSA & Full-Stack Development
-🌐 Portfolio   : amritanshguptadev.github.io/resume
+🌐 Resume      : github.com/amritanshguptadev/resume/raw/main/resume.pdf
 🎯 Dream       : Build software that actually helps people
 ⚡ Fun Fact    : I debug code like I solve puzzles — patiently 🧩
 ```
@@ -131,7 +131,7 @@ A **full-stack yoga booking web app** with a premium glassmorphism UI, real-time
 <td width="50%" align="center">
 
 ### 📄 Resume / Portfolio
-[![Portfolio](https://img.shields.io/badge/Live%20Site-View%20Resume-0A66C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://amritanshguptadev.github.io/resume/)
+[![Resume PDF](https://img.shields.io/badge/Open%20Resume-PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/amritanshguptadev/resume/raw/main/resume.pdf)
 [![Repo](https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amritanshguptadev/resume)
 
 My **personal portfolio & resume** site hosted on GitHub Pages, showcasing my skills, education, and projects.
@@ -233,8 +233,8 @@ My **personal portfolio & resume** site hosted on GitHub Pages, showcasing my sk
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://amritanshguptadev.github.io/resume/">
-  <img src="https://img.shields.io/badge/Portfolio-View%20Resume-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white"/>
+<a href="https://github.com/amritanshguptadev/resume/raw/main/resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-Download%20PDF-7C3AED?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://yogaflow-pro.vercel.app">
