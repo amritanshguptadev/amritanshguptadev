@@ -1,36 +1,36 @@
 <div align="center">
 
 <!-- ═══════════ ANIMATED HEADER ═══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b2e,100:0d1117&customColorList=&height=240&section=header&text=Amritansh%20Gupta&fontSize=55&fontAlignY=40&desc=BCA%20Student%20%7C%20Future%20Software%20Developer%20%7C%20Builder%20of%20Real%20Things%20🚀&descAlignY=62&descAlign=50&animation=fadeIn&fontColor=fff&stroke=6AD3F7&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b2e,100:0d1117&height=240&section=header&text=Amritansh%20Gupta&fontSize=55&fontAlignY=40&desc=BCA%20Student%20%7C%20Future%20Software%20Developer%20%7C%20Builder%20of%20Real%20Things%20🚀&descAlignY=62&descAlign=50&animation=fadeIn&fontColor=fff&stroke=6AD3F7&strokeWidth=2" width="100%" alt="header"/>
 
 <!-- ═══════════ TYPING ANIMATION ═══════════ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=6AD3F7&background=00000000&center=true&vCenter=true&repeat=true&width=700&height=70&lines=👨‍💻+BCA+Student+%40+Haridwar%2C+India;🌍+Building+real-world+projects+from+scratch;🧠+Focused+on+C%2C+C%2B%2B+%26+Data+Structures;🎨+Obsessed+with+beautiful%2C+animated+UIs;🚀+Future+Software+Developer+in+the+making)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ═══════════ QUICK STATS ROW ═══════════ -->
-<img src="https://img.shields.io/badge/📍 Location-Haridwar%2C India-0e75b6?style=for-the-badge" alt="Location"/>
+<!-- ═══════════ QUICK STATS BADGES ═══════════ -->
+![Location](https://img.shields.io/badge/📍_Location-Haridwar%2C_India-0e75b6?style=for-the-badge)
 &nbsp;
-<img src="https://img.shields.io/badge/🎓 Degree-BCA Student-9B59B6?style=for-the-badge" alt="BCA Student"/>
+![Degree](https://img.shields.io/badge/🎓_Degree-BCA_Student-9B59B6?style=for-the-badge)
 &nbsp;
-<img src="https://img.shields.io/badge/💼 Status-Open to Opportunities-27AE60?style=for-the-badge" alt="Status"/>
+![Status](https://img.shields.io/badge/💼_Status-Open_to_Opportunities-27AE60?style=for-the-badge)
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=amritanshguptadev&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=amritanshguptadev&label=Profile+Views&color=0e75b6&style=for-the-badge)
 
 <br/><br/>
 
 <!-- ═══════════ SOCIAL LINKS ═══════════ -->
 <a href="mailto:amritansh.gupta.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>&nbsp;
 <a href="https://linkedin.com/in/amritanshguptadev">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>&nbsp;
 <a href="https://github.com/amritanshguptadev">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>&nbsp;
 <a href="https://amritanshguptadev.github.io/resume/">
-  <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
 </a>
 
 </div>
@@ -54,10 +54,10 @@ const amritansh: Developer = {
     "Building polished, real-world projects",
   ],
 
-  projects    : 7,          // public repos & counting
-  joinedGitHub: "March 2026",
-  philosophy  : "Ship things that make people say WOW ✨",
-  openTo      : ["Internships", "Collaborations", "Open Source"],
+  totalProjects : 7,
+  joinedGitHub  : "March 2026",
+  philosophy    : "Ship things that make people say WOW ✨",
+  openTo        : ["Internships", "Collaborations", "Open Source"],
 };
 ```
 
@@ -84,7 +84,7 @@ const amritansh: Developer = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 💻 Languages
+### 💻 Core Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -92,9 +92,9 @@ const amritansh: Developer = {
 ### 🛠 Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
@@ -105,13 +105,13 @@ const amritansh: Developer = {
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=amritanshguptadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&rank_icon=github&hide_border=false" alt="GitHub Stats"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=amritanshguptadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&rank_icon=github" alt="GitHub Stats"/>
 &nbsp;
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshguptadev&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=false" alt="Top Languages"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshguptadev&layout=compact&langs_count=8&theme=tokyonight&border_radius=12" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=amritanshguptadev&theme=tokyonight&border_radius=12&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=amritanshguptadev&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -131,95 +131,97 @@ const amritansh: Developer = {
 
 ## 🌟 My Projects — Built From Scratch
 
-> Every project below is **live, deployed, and hand-crafted** — no templates.
+> Every project below is **live, deployed & hand-crafted** — no templates, no shortcuts.
 
-<div align="center">
+<br/>
 
 ### 🗺️ Incredible India — Premium Travel Portal
-[![incredible-india](https://github-readme-stats.vercel.app/api/pin/?username=amritanshguptadev&repo=incredible-india&theme=tokyonight&border_radius=12&show_owner=false)](https://github.com/amritanshguptadev/incredible-india)
 
-</div>
+<a href="https://github.com/amritanshguptadev/incredible-india">
+  <img src="https://gh-card.dev/repos/amritanshguptadev/incredible-india.svg?fullname=1&theme=dark" alt="Incredible India Repo Card"/>
+</a>
 
 | | |
 |---|---|
-| **🎨 What it is** | A cinematic travel portal celebrating India's most iconic destinations |
-| **✨ Tech** | Pure HTML · Vanilla CSS · Vanilla JS (zero frameworks!) |
-| **🚀 Highlights** | Pure CSS jet animation · Hot-air balloon · Glassmorphism · Responsive gallery |
-| **🌐 Live** | [incredible-india-seven.vercel.app](https://incredible-india-seven.vercel.app) |
+| **🎨 What it is** | Cinematic travel portal celebrating India's most iconic destinations |
+| **✨ Tech** | Pure HTML · Vanilla CSS · Vanilla JS · Zero frameworks |
+| **🚀 Features** | CSS jet animation · Hot-air balloon · Glassmorphism · Responsive gallery |
+| **🌐 Live Demo** | [![Live](https://img.shields.io/badge/▶_Visit_Live-incredible--india-00C7B7?style=flat-square&logo=vercel)](https://incredible-india-seven.vercel.app) |
+| **🗂 Repo** | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/amritanshguptadev/incredible-india) |
 
 ---
-
-<div align="center">
 
 ### 🧠 MindMetric — Intelligence Assessment Platform
-[![mindmetric](https://github-readme-stats.vercel.app/api/pin/?username=amritanshguptadev&repo=mindmetric&theme=tokyonight&border_radius=12&show_owner=false)](https://github.com/amritanshguptadev/mindmetric)
 
-</div>
+<a href="https://github.com/amritanshguptadev/mindmetric">
+  <img src="https://gh-card.dev/repos/amritanshguptadev/mindmetric.svg?fullname=1&theme=dark" alt="MindMetric Repo Card"/>
+</a>
 
 | | |
 |---|---|
-| **🎨 What it is** | An intelligence / aptitude test web platform with analytics |
-| **✨ Tech** | JavaScript · CSS · Data visualization |
-| **🌐 Live** | [mindmetric-orpin.vercel.app](https://mindmetric-orpin.vercel.app) |
+| **🎨 What it is** | Aptitude & intelligence test platform with data analytics |
+| **✨ Tech** | JavaScript · CSS · Dynamic charts |
+| **🌐 Live Demo** | [![Live](https://img.shields.io/badge/▶_Visit_Live-mindmetric-00C7B7?style=flat-square&logo=vercel)](https://mindmetric-orpin.vercel.app) |
+| **🗂 Repo** | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/amritanshguptadev/mindmetric) |
 
 ---
-
-<div align="center">
 
 ### ✨ GitGlow — GitHub Profile Beauty Tool
-[![gitglow](https://github-readme-stats.vercel.app/api/pin/?username=amritanshguptadev&repo=gitglow&theme=tokyonight&border_radius=12&show_owner=false)](https://github.com/amritanshguptadev/gitglow)
 
-</div>
+<a href="https://github.com/amritanshguptadev/gitglow">
+  <img src="https://gh-card.dev/repos/amritanshguptadev/gitglow.svg?fullname=1&theme=dark" alt="GitGlow Repo Card"/>
+</a>
 
 | | |
 |---|---|
-| **🎨 What it is** | A tool to make GitHub profiles shine — UI-first CSS showcase |
-| **✨ Tech** | CSS · HTML (MIT Licensed) |
-| **🌐 Live** | [gitglow-inky.vercel.app](https://gitglow-inky.vercel.app/) |
+| **🎨 What it is** | A tool to make GitHub profiles shine — pure CSS showcase |
+| **✨ Tech** | CSS · HTML · MIT Licensed |
+| **🌐 Live Demo** | [![Live](https://img.shields.io/badge/▶_Visit_Live-gitglow-00C7B7?style=flat-square&logo=vercel)](https://gitglow-inky.vercel.app/) |
+| **🗂 Repo** | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/amritanshguptadev/gitglow) |
 
 ---
 
-<div align="center">
+### 🕵️ FakeBuster — Fake Content Detector
 
-### 🕵️ FakeBuster — Fake News / Profile Detector
-[![FakeBuster](https://github-readme-stats.vercel.app/api/pin/?username=amritanshguptadev&repo=FakeBuster&theme=tokyonight&border_radius=12&show_owner=false)](https://github.com/amritanshguptadev/FakeBuster)
-
-</div>
+<a href="https://github.com/amritanshguptadev/FakeBuster">
+  <img src="https://gh-card.dev/repos/amritanshguptadev/FakeBuster.svg?fullname=1&theme=dark" alt="FakeBuster Repo Card"/>
+</a>
 
 | | |
 |---|---|
-| **🎨 What it is** | A JavaScript-powered tool to detect and bust fake content |
+| **🎨 What it is** | JavaScript-powered tool to detect and bust fake content online |
 | **✨ Tech** | JavaScript · HTML · CSS |
-| **🌐 Live** | [fake-buster-omega.vercel.app](https://fake-buster-omega.vercel.app/) |
+| **🌐 Live Demo** | [![Live](https://img.shields.io/badge/▶_Visit_Live-FakeBuster-00C7B7?style=flat-square&logo=vercel)](https://fake-buster-omega.vercel.app/) |
+| **🗂 Repo** | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/amritanshguptadev/FakeBuster) |
 
 ---
-
-<div align="center">
 
 ### 🧘 YogaFlow Pro — Premium Yoga Platform
-[![yogaflow-pro](https://github-readme-stats.vercel.app/api/pin/?username=amritanshguptadev&repo=yogaflow-pro&theme=tokyonight&border_radius=12&show_owner=false)](https://github.com/amritanshguptadev/yogaflow-pro)
 
-</div>
+<a href="https://github.com/amritanshguptadev/yogaflow-pro">
+  <img src="https://gh-card.dev/repos/amritanshguptadev/yogaflow-pro.svg?fullname=1&theme=dark" alt="YogaFlow Pro Repo Card"/>
+</a>
 
 | | |
 |---|---|
-| **🎨 What it is** | A premium yoga & wellness web app with guided flows |
-| **✨ Tech** | **TypeScript** · React/Next.js · CSS (MIT Licensed) |
-| **🌐 Live** | [yogaflow-pro.vercel.app](https://yogaflow-pro.vercel.app) |
+| **🎨 What it is** | Premium yoga & wellness web app with guided practice flows |
+| **✨ Tech** | **TypeScript** · React · Next.js · MIT Licensed |
+| **🌐 Live Demo** | [![Live](https://img.shields.io/badge/▶_Visit_Live-yogaflow--pro-00C7B7?style=flat-square&logo=vercel)](https://yogaflow-pro.vercel.app) |
+| **🗂 Repo** | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/amritanshguptadev/yogaflow-pro) |
 
 ---
 
-<div align="center">
-
 ### 📄 Resume — My Online CV
-[![resume](https://github-readme-stats.vercel.app/api/pin/?username=amritanshguptadev&repo=resume&theme=tokyonight&border_radius=12&show_owner=false)](https://github.com/amritanshguptadev/resume)
 
-</div>
+<a href="https://github.com/amritanshguptadev/resume">
+  <img src="https://gh-card.dev/repos/amritanshguptadev/resume.svg?fullname=1&theme=dark" alt="Resume Repo Card"/>
+</a>
 
 | | |
 |---|---|
-| **🎨 What it is** | A fully designed, hosted online resume / portfolio page |
-| **🌐 Live** | [amritanshguptadev.github.io/resume](https://amritanshguptadev.github.io/resume/) |
+| **🎨 What it is** | Fully designed, hosted online resume / portfolio page |
+| **🌐 Live Demo** | [![Live](https://img.shields.io/badge/▶_Visit_Resume-GitHub_Pages-222222?style=flat-square&logo=githubpages)](https://amritanshguptadev.github.io/resume/) |
+| **🗂 Repo** | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github)](https://github.com/amritanshguptadev/resume) |
 
 ---
 
@@ -257,7 +259,7 @@ const amritansh: Developer = {
 | 💼 **LinkedIn** | [linkedin.com/in/amritanshguptadev](https://linkedin.com/in/amritanshguptadev) |
 | 🐙 **GitHub** | [@amritanshguptadev](https://github.com/amritanshguptadev) |
 | 📄 **Resume** | [amritanshguptadev.github.io/resume](https://amritanshguptadev.github.io/resume/) |
-| 🌍 **Incredible India** | [incredible-india-seven.vercel.app](https://incredible-india-seven.vercel.app) |
+| 🌍 **Portfolio Project** | [incredible-india-seven.vercel.app](https://incredible-india-seven.vercel.app) |
 
 </div>
 
@@ -265,7 +267,7 @@ const amritansh: Developer = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b2e,100:0d1117&height=140&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b2e,100:0d1117&height=140&section=footer&animation=fadeIn" width="100%" alt="footer"/>
 
 **🙏 Based in Haridwar, India — building the future, one commit at a time.**
 
