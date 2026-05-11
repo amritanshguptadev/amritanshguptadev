@@ -31,6 +31,9 @@
 </a>&nbsp;
 <a href="https://amritanshguptadev.github.io/resume/">
   <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
+</a>&nbsp;
+<a href="https://raw.githubusercontent.com/amritanshguptadev/amritanshguptadev/main/Amritansh_Gupta_Resume.pdf">
+  <img src="https://img.shields.io/badge/Download_PDF-Resume-EC407A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume PDF"/>
 </a>
 
 </div>
@@ -221,6 +224,7 @@ const amritansh: Developer = {
 |---|---|
 | **🎨 What it is** | Fully designed, hosted online resume / portfolio page |
 | **🌐 Live Demo** | [![Live](https://img.shields.io/badge/▶_Visit_Resume-GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)](https://amritanshguptadev.github.io/resume/) |
+| **📥 Download PDF** | [![PDF](https://img.shields.io/badge/⬇_Download_PDF-Resume-EC407A?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/amritanshguptadev/amritanshguptadev/main/Amritansh_Gupta_Resume.pdf) |
 | **🗂 Repo** | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amritanshguptadev/resume) |
 
 ---
@@ -258,7 +262,7 @@ const amritansh: Developer = {
 | 📧 **Email** | [amritansh.gupta.dev@gmail.com](mailto:amritansh.gupta.dev@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/amritanshguptadev](https://linkedin.com/in/amritanshguptadev) |
 | 🐙 **GitHub** | [@amritanshguptadev](https://github.com/amritanshguptadev) |
-| 📄 **Resume** | [amritanshguptadev.github.io/resume](https://amritanshguptadev.github.io/resume/) |
+| 📄 **Resume** | [amritanshguptadev.github.io/resume](https://amritanshguptadev.github.io/resume/) · [⬇ Download PDF](https://raw.githubusercontent.com/amritanshguptadev/amritanshguptadev/main/Amritansh_Gupta_Resume.pdf) |
 | 🌍 **Portfolio Project** | [incredible-india-seven.vercel.app](https://incredible-india-seven.vercel.app) |
 
 </div>
