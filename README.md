@@ -108,13 +108,7 @@ const amritansh: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amritanshguptadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&rank_icon=github&cache_seconds=1800&hide_border=false" alt="GitHub Stats"/>
-&nbsp;
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritanshguptadev&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&cache_seconds=1800" alt="Top Languages"/>
-
-<br/><br/>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=amritanshguptadev&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+<img src="https://github-stats-alpha.vercel.app/api?username=amritanshguptadev&cc=1a1b27&tc=70a5fd&ic=bf91f3&bc=1a1b27" alt="GitHub Stats"/>
 
 <br/><br/>
 
