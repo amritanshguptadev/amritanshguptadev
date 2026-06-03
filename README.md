@@ -273,7 +273,6 @@ const amritansh: Developer = {
 | 🐙 **GitHub** | [@amritanshguptadev](https://github.com/amritanshguptadev) |
 | 📄 **Resume** | [amritanshguptadev.github.io/resume](https://amritanshguptadev.github.io/resume/) · [⬇ Download PDF](https://raw.githubusercontent.com/amritanshguptadev/resume/main/resume.pdf) |
 | 🌍 **Personal Portfolio** | [amritanshguptaportfolio.vercel.app](https://amritanshguptaportfolio.vercel.app/) |
-| 🗺️ **Featured Project (Travel)** | [incredible-india-seven.vercel.app](https://incredible-india-seven.vercel.app) |
 
 </div>
 
