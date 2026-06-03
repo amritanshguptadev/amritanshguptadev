@@ -32,7 +32,7 @@
 <a href="https://amritanshguptadev.github.io/resume/">
   <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
 </a>&nbsp;
-<a href="https://raw.githubusercontent.com/amritanshguptadev/amritanshguptadev/main/Amritansh_Gupta_Resume.pdf">
+<a href="https://raw.githubusercontent.com/amritanshguptadev/resume/main/resume.pdf">
   <img src="https://img.shields.io/badge/Download_PDF-Resume-EC407A?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume PDF"/>
 </a>
 
@@ -141,7 +141,7 @@ const amritansh: Developer = {
 ### 🗺️ Incredible India — Premium Travel Portal
 
 <a href="https://github.com/amritanshguptadev/incredible-india">
-  <img src="https://gh-card.dev/repos/amritanshguptadev/incredible-india.svg?fullname=1&theme=dark" alt="Incredible India Repo Card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshguptadev&repo=incredible-india&theme=tokyonight&border_radius=10" alt="Incredible India Repo Card"/>
 </a>
 
 | | |
@@ -157,7 +157,7 @@ const amritansh: Developer = {
 ### 🧠 MindMetric — Intelligence Assessment Platform
 
 <a href="https://github.com/amritanshguptadev/mindmetric">
-  <img src="https://gh-card.dev/repos/amritanshguptadev/mindmetric.svg?fullname=1&theme=dark" alt="MindMetric Repo Card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshguptadev&repo=mindmetric&theme=tokyonight&border_radius=10" alt="MindMetric Repo Card"/>
 </a>
 
 | | |
@@ -172,7 +172,7 @@ const amritansh: Developer = {
 ### ✨ GitGlow — GitHub Profile Analyzer
 
 <a href="https://github.com/amritanshguptadev/gitglow">
-  <img src="https://gh-card.dev/repos/amritanshguptadev/gitglow.svg?fullname=1&theme=dark" alt="GitGlow Repo Card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshguptadev&repo=gitglow&theme=tokyonight&border_radius=10" alt="GitGlow Repo Card"/>
 </a>
 
 | | |
@@ -187,7 +187,7 @@ const amritansh: Developer = {
 ### 🕵️ FakeBuster — AI Fact Checker
 
 <a href="https://github.com/amritanshguptadev/FakeBuster">
-  <img src="https://gh-card.dev/repos/amritanshguptadev/FakeBuster.svg?fullname=1&theme=dark" alt="FakeBuster Repo Card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshguptadev&repo=FakeBuster&theme=tokyonight&border_radius=10" alt="FakeBuster Repo Card"/>
 </a>
 
 | | |
@@ -202,7 +202,7 @@ const amritansh: Developer = {
 ### 🧘 YogaFlow Pro — Premium Yoga Platform
 
 <a href="https://github.com/amritanshguptadev/yogaflow-pro">
-  <img src="https://gh-card.dev/repos/amritanshguptadev/yogaflow-pro.svg?fullname=1&theme=dark" alt="YogaFlow Pro Repo Card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshguptadev&repo=yogaflow-pro&theme=tokyonight&border_radius=10" alt="YogaFlow Pro Repo Card"/>
 </a>
 
 | | |
@@ -214,17 +214,32 @@ const amritansh: Developer = {
 
 ---
 
+### 💼 Premium Dev Portfolio — Modern Developer Showcase
+
+<a href="https://github.com/amritanshguptadev/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshguptadev&repo=portfolio&theme=tokyonight&border_radius=10" alt="Portfolio Repo Card"/>
+</a>
+
+| | |
+|---|---|
+| **🎨 What it is** | Beautiful, interactive developer portfolio showcasing all projects |
+| **✨ Tech** | TypeScript · React · Vite · Modern Styling |
+| **🌐 Live Demo** | [![Live](https://img.shields.io/badge/▶_Visit_Live-portfolio-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://amritanshguptaportfolio.vercel.app/) |
+| **🗂 Repo** | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amritanshguptadev/portfolio) |
+
+---
+
 ### 📄 Resume — My Online CV
 
 <a href="https://github.com/amritanshguptadev/resume">
-  <img src="https://gh-card.dev/repos/amritanshguptadev/resume.svg?fullname=1&theme=dark" alt="Resume Repo Card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=amritanshguptadev&repo=resume&theme=tokyonight&border_radius=10" alt="Resume Repo Card"/>
 </a>
 
 | | |
 |---|---|
 | **🎨 What it is** | Fully designed, hosted online resume / portfolio page |
 | **🌐 Live Demo** | [![Live](https://img.shields.io/badge/▶_Visit_Resume-GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)](https://amritanshguptadev.github.io/resume/) |
-| **📥 Download PDF** | [![PDF](https://img.shields.io/badge/⬇_Download_PDF-Resume-EC407A?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/amritanshguptadev/amritanshguptadev/main/Amritansh_Gupta_Resume.pdf) |
+| **📥 Download PDF** | [![PDF](https://img.shields.io/badge/⬇_Download_PDF-Resume-EC407A?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/amritanshguptadev/resume/main/resume.pdf) |
 | **🗂 Repo** | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amritanshguptadev/resume) |
 
 ---
@@ -262,7 +277,7 @@ const amritansh: Developer = {
 | 📧 **Email** | [amritansh.gupta.dev@gmail.com](mailto:amritansh.gupta.dev@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/amritanshguptadev](https://linkedin.com/in/amritanshguptadev) |
 | 🐙 **GitHub** | [@amritanshguptadev](https://github.com/amritanshguptadev) |
-| 📄 **Resume** | [amritanshguptadev.github.io/resume](https://amritanshguptadev.github.io/resume/) · [⬇ Download PDF](https://raw.githubusercontent.com/amritanshguptadev/amritanshguptadev/main/Amritansh_Gupta_Resume.pdf) |
+| 📄 **Resume** | [amritanshguptadev.github.io/resume](https://amritanshguptadev.github.io/resume/) · [⬇ Download PDF](https://raw.githubusercontent.com/amritanshguptadev/resume/main/resume.pdf) |
 | 🌍 **Portfolio Project** | [incredible-india-seven.vercel.app](https://incredible-india-seven.vercel.app) |
 
 </div>
