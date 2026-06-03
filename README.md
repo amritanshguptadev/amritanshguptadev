@@ -272,7 +272,8 @@ const amritansh: Developer = {
 | 💼 **LinkedIn** | [linkedin.com/in/amritanshguptadev](https://linkedin.com/in/amritanshguptadev) |
 | 🐙 **GitHub** | [@amritanshguptadev](https://github.com/amritanshguptadev) |
 | 📄 **Resume** | [amritanshguptadev.github.io/resume](https://amritanshguptadev.github.io/resume/) · [⬇ Download PDF](https://raw.githubusercontent.com/amritanshguptadev/resume/main/resume.pdf) |
-| 🌍 **Portfolio Project** | [incredible-india-seven.vercel.app](https://incredible-india-seven.vercel.app) |
+| 🌍 **Personal Portfolio** | [amritanshguptaportfolio.vercel.app](https://amritanshguptaportfolio.vercel.app/) |
+| 🗺️ **Featured Project (Travel)** | [incredible-india-seven.vercel.app](https://incredible-india-seven.vercel.app) |
 
 </div>
 
