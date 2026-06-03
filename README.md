@@ -121,7 +121,7 @@ const amritansh: Developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=amritanshguptadev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=6&column=7" width="100%" alt="Trophies"/>
+<img src="https://github-profile-trophy-tawny.vercel.app/?username=amritanshguptadev&theme=tokyonight&no-frame=false&no-bg=true&margin-w=6&column=7" width="100%" alt="Trophies"/>
 </div>
 
 ---
